@@ -21,5 +21,5 @@ ML Project #2: Running through the Boston dataset and getting some hands-on expe
 
 ### Takeaways:
 - Create more visuals for inspecting performance (**matplotlib**).
-- Tinker more with **`sklearn`**'s transformers.
+- Tinker more with **sklearn**'s transformers.
 - Learn more about **Feature Engineering** (Selection/Transformation/Scaling).
